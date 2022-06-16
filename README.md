@@ -1,6 +1,6 @@
 ## Hi, my name is Bruno, i software engineer from Brazil ✈️
 
-👨‍💻  <strong>Skills:</strong> PHP, Laravel, MYSQL, Bootstrap, JavaScript, JQuery, React, Docker, Linux <br />
+👨‍💻  <strong>Skills:</strong> PHP, Laravel, MYSQL, Bootstrap, JavaScript, JQuery, Docker, Linux <br />
 
 <p> 📫 <strong>Contact</strong></p>
 
